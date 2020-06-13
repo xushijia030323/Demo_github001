@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="791666d3-c561-44b1-b0ea-cee1799ea8a0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo_git02.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dt/pojo/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dt/pojo/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dt/pojo/Student.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,14 +72,30 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1592032300540</updated>
-      <workItem from="1592032305877" duration="651000" />
+      <workItem from="1592032305877" duration="1700000" />
     </task>
+    <task id="LOCAL-00001" summary="create git02">
+      <created>1592033199713</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1592033199713</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="create git02" />
+    <option name="LAST_COMMIT_MESSAGE" value="create git02" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="133" y="0" key="CommitChangelistDialog2" timestamp="1592033193400">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="133" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1592033193400" />
     <state x="468" y="127" key="FileChooserDialogImpl" timestamp="1592032434867">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -93,5 +104,13 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="258" y="17" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1592032616904" />
+    <state x="214" y="95" key="Vcs.Push.Dialog.v2" timestamp="1592033703356">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="214" y="95" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1592033703356" />
+    <state x="299" y="191" key="git4idea.merge.GitPullDialog" timestamp="1592034036987">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="299" y="191" key="git4idea.merge.GitPullDialog/0.0.1366.728@0.0.1366.728" timestamp="1592034036986" />
   </component>
 </project>
